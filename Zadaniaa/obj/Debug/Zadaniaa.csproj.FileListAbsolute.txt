@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\obj\Debug\Zadaniaa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\obj\Debug\Zadaniaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\obj\Debug\Zadaniaa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\bin\Debug\Zadaniaa.exe.config
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\bin\Debug\Zadaniaa.exe
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\bin\Debug\Zadaniaa.pdb
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\obj\Debug\Zadaniaa.exe
+C:\Users\User\Desktop\programy\Zadanie\ZadaniaaApp\Zadaniaa\obj\Debug\Zadaniaa.pdb
